@@ -22,13 +22,13 @@ const AboutPage = () => {
                         </p>
                     </div>
                     <div className={styles.box}>
-                        <h1>10 K+</h1>
+                        <h1>25 K+</h1>
                         <p>
                             Years of experience
                         </p>
                     </div>
                     <div className={styles.box}>
-                        <h1>10 K+</h1>
+                        <h1>50 K+</h1>
                         <p>
                             Years of experience
                         </p>
